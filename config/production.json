@@ -1,0 +1,5 @@
+{
+  "PORT": 4000,
+  "CHAT_CHANNEL": "CHAT_CHANNEL",
+  "mongoString": "mongodb+srv://Alex:qwe123ewq321@appinion.ujpqh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
